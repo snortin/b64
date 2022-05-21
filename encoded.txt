@@ -1,0 +1,21 @@
+Encoded Text: b'ZGZkZmRm'
+Encoded Text: b'}\xd7_'
+Encoded Text: b'bmlnZ2Vy'
+original text: faggott
+Encoded Text: b'ZmFnZ290dA=='
+---
+original text: nigger
+Encoded Text: b'bmlnZ2Vy'
+---
+---
+Original text: niggerrrr
+Encoded Text: b'bmlnZ2VycnJy'
+---
+---
+Original text: dfdsfdsfdsf
+Encoded Text: b'ZGZkc2Zkc2Zkc2Y='
+---
+---
+Original text: faggot man 123
+Encoded Text: b'ZmFnZ290IG1hbiAxMjM='
+---

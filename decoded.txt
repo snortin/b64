@@ -1,0 +1,16 @@
+---
+Encoded Text (b64): bmlnZ2Vy
+Decoded Text: b'nigger'
+---
+---
+Encoded Text (b64): bmlnZ2VycnJy
+Decoded Text: b'niggerrrr'
+---
+---
+Encoded Text (b64): ZGZkc2Zkc2Zkc2Y=
+Decoded Text: b'dfdsfdsfdsf'
+---
+---
+Encoded Text (b64): b'ZmFnZ290IG1hbiAxMjM='
+Decoded Text: b'm\x99\x85\x9d\x9d\xbd\xd0\x81\xb5\x85\xb8\x80\xc4\xc8\xcc'
+---
