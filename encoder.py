@@ -1,7 +1,7 @@
 import base64
 import os
 
-faggot = os.environ['COMPUTERNAME'] # variable that grabs hosts name later used for the print statement below importing it as a `fstring` because im gay
+faggot = os.environ['COMPUTERNAME'] # im federal like that
 
 print(f'hello, User {faggot}, here is a base64 encoder and decoder this is the encoderbye now.\n')
 
