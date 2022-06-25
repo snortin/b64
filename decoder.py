@@ -1,9 +1,9 @@
 import base64
 import os
 
-faggot = os.environ['COMPUTERNAME'] # grabs hosts computer name that is in a variable later used for my print function because im federal ;3
+faggot = os.environ['COMPUTERNAME'] # ratio
 
-print(f'hello, User {faggot}, here is a base64 encoder and decoder this is the decoderbye now.\n') # just hi :]
+print(f'hello, User {faggot}, here is a base64 encoder and decoder this is the decoder bye now.\n') # just hi :]
 
 str = input('text > ') # string you want to decode in Base64 encoding
 
